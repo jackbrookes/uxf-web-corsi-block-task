@@ -1,0 +1,12 @@
+{
+"companyName": "UXF",
+"productName": "Unity Experiment Framework",
+"dataUrl": "Corsi.data.unityweb",
+"wasmCodeUrl": "Corsi.wasm.code.unityweb",
+"wasmFrameworkUrl": "Corsi.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080"
+}
